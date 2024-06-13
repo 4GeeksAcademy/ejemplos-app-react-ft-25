@@ -1,9 +1,9 @@
 //import React from 'react'
 import { sumar, restar, multiplicar } from './libs/functions'
 
-import config, { USER } from '../config'
-import { Card } from './Card.jsx'
-import { MyButton } from './MyButton.jsx'
+import config, { USER } from './config'
+import { Card } from './components/Card.jsx'
+import { MyButton } from './components/MyButton.jsx'
 
 const App = () => {
     return (
